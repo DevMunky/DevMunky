@@ -1,6 +1,6 @@
 #### minecraft guy
 
-My main project is [Instantiated](https://github.com/DevMunky/Instantiated-Public), you can read more about it there.
+My main project is [Instantiated](https://github.com/DevMunky/Instantiated), you can read more about it there.
 
 I also work with [Titanborn](https://titanborn.net), a really interesting RPG Minecraft server with voice acting, custom enemies and models, and more.
 
